@@ -3,7 +3,7 @@ Create a Haddop + Hive cluster with Docker
 
 ## Credits
 
-This repository was compiled by [Bruno Anglés](https://github.com/tuxsy). The instructions on how to deploy a Hadoop + Hive environment with Docker containers were based on an article by [Hrishi Shirodkar](https://hshirodkar.medium.com/)  published on Medium. You can find the original article [here](https://hshirodkar.medium.com/apache-hive-on-docker-4d7280ac6f8e)). Thank you [Author's Name] for sharing your knowledge and making this project possible!
+This repository was compiled by [Bruno Anglés](https://github.com/tuxsy). The instructions on how to deploy a Hadoop + Hive environment with Docker containers were based on an article by [Hrishi Shirodkar](https://hshirodkar.medium.com/)  published on Medium. You can find the original article [here](https://hshirodkar.medium.com/apache-hive-on-docker-4d7280ac6f8e). Thank you [Hrishi Shirodkar] for sharing your knowledge and making this project possible!
 
 This set up has been tested on a Macbook Pro with an M2 chip. The Docker Desktop version used was 4.19.0 (106363).
 
